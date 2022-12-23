@@ -122,7 +122,7 @@ footer p {
 
 @media screen and (max-width: 464px) {
   section p {
-    font: 800 italic 1.5rem/3 var(--font-p);
+    font: 800 italic 1.4rem/3 var(--font-p);
   }
 }
 
